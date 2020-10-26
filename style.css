@@ -1,0 +1,38 @@
+body {
+    background: #763;
+    font-family: sans-serif;
+}
+
+.row {
+    margin: 5px 10px;
+}
+
+.row img {
+    width: 40px;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
+
+form {
+    border-top: 1px solid #762AB3;
+}
+
+form button {
+    color: #fff;
+    width: 100px;
+    background: linear-gradient(to right, #4CAF50, #00BCD4);
+    box-shadow: 0 8px 10px -10px rgb(0, 0, 0);
+    cursor: pointer;
+}
+
+.reach {
+    background: #762AB3;
+    color: #fff;
+}
+
+.card {
+    border-radius: none;
+    min-height: 480px;
+}
